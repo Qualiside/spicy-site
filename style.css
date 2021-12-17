@@ -80,6 +80,8 @@ body {
 
 .user-image {
   margin: 0 0 32px;
+  border-radius: 20px;
+  border: dashed 3px #ff0000;
   text-align: center;
 }
 
