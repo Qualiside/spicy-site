@@ -85,6 +85,11 @@ body {
   text-align: center;
 }
 
+.about-me {
+white-space: pre-wrap;
+}
+
+
 .intro h3,
 .portfolio h3 {
   margin: 0 0 12px;
